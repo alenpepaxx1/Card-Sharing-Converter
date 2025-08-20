@@ -9,7 +9,6 @@ My Profile Linkedin : https://www.linkedin.com/in/alenpepa/
 
 A modern, feature-rich desktop application for converting between different card sharing protocols with an intuitive graphical interface.
 
-![Application Screenshot](screenshots/main-interface.png)
 
 ## ✨ Features
 
