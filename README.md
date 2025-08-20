@@ -42,3 +42,13 @@ A modern, feature-rich desktop application for converting between different card
 ### Installation
 
 1. **Clone the repository**
+
+
+This tool is provided for educational and personal use only. It is intended to convert configuration formats between OSCam and CCCam for legitimate purposes, such as testing with your own equipment or network.
+
+The developer does **not** condone, support, or take any responsibility for any illegal usage, including but not limited to unauthorized access to pay TV services or violation of copyright laws.
+
+By using this software, you agree to use it **only for legal and ethical purposes** and take full responsibility for how you use it.
+
+If you do not agree with these terms, do not use this tool.
+
